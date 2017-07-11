@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/gameWebPart/GameWebPartWebPart.js",
+      "manifest": "./src/webparts/gameWebPart/GameWebPartWebPart.manifest.json",
+      "outputPath": "./dist/game-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "gameWebPartStrings": "webparts/gameWebPart/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "cd0a8704-e4ef-4396-8ecf-783686fed936",
+  "alias": "GameWebPartWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "cd0a8704-e4ef-4396-8ecf-783686fed936",
+    "group": { "default": "Under Development" },
+    "title": { "default": "GameWebPart" },
+    "description": { "default": "GameWebPart description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "GameWebPart"
+    }
+  }]
+}

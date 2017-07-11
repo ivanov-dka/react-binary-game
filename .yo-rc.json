@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "binary-game",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "f654c78e-8598-43e6-942e-40539a95bffa"
+  }
+}
